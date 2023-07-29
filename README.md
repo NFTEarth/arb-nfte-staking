@@ -1,4 +1,6 @@
-# ERC20 Staking App
+# Arbitrum Staking App
+
+As an Omnichain protocol, users can stake on all chains and earn the rewards in the form of tbe chain native currency or primary governance token (ie ARB amd OP) - on BMB, Polygon, and Avalanche, users earn BNB, MATIC, AVAX, respectively.
 
 Allow users to stake their ERC20 tokens in return for more/other ERC20 tokens!
 
